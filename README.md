@@ -10,4 +10,4 @@ I have uploaded sample inputs and outputs.
 
 #  Screenshot
 
-![](https://github.com/hemanth-nag/shell_scripting_basic/blob/master/1.png)
+![](https://github.com/ChandanShankarM/Shell-Scripting/blob/master/pic.png)
